@@ -19,9 +19,9 @@ Available at [Dashkeebs](https://dashkeebs.bigcartel.com/product/cmlv4n-pcb)
 
 
 ### KLC layout
-![KLC layout](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20KLC.jpg)
+![KLC layout](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/Images/CMLV4N%20KLE.jpg)
 
 ### PCB images
-![PCB Front](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20PCB%20Front.jpg)
-![PCB Back](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20PCB%20Front.jpg)
-![Case](https://github.com/DashDashUnderscoreDash/Alphable-PCB/blob/main/Images/Alphable%20PCB%20Front.jpg)
+![PCB Front](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/Images/CMLV4N%206%20-%20169%20-%201080.png)
+![PCB Back](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/Images/CMLV4N%205%20-%20169%20-%201080.png)
+![Case](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/Images/CMLV4N%201%20-%20169%20-%201080.png)
