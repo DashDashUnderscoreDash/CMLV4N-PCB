@@ -2,7 +2,7 @@
 
 CMLV4N is an STM32 12u V4N style PCB with leafspring tadpole mounting featuring forced Cherry ML support
 
-The goal of this PCB is to have a 40% keyboard that uses Cherry ML switches harvested from a Cherry G84-4100
+The goal of this PCB is to have a 40% keyboard that uses Cherry ML switches harvested from a Cherry G84-4100. PLEASE ENSURE YOU VERIFY THE SPACEBAR IS LARGE ENOUGH!!!! There are multiple models and some have too small of spacebar.
 
 Due to the uneven u sizing on Cherry ML the enter key does not fill that entire area. This is a compromise that needed to be made to make the layout work and a combination of skill issue. The stabilizer position on the enter does not work as the footprint is the incorrect size. Apologies!
 
