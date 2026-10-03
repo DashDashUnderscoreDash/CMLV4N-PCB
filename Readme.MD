@@ -14,12 +14,14 @@ Due to the uneven u sizing on Cherry ML the enter key does not fill that entire 
 ```
 - Layout options
 - Images of PCB
-- VIAL firmware - Made by [Moinboards](https://moinboards.de/)
+- VIAL firmware
 - STEP model of PCB
 - Edgecuts of PCB
 - Complete KiCad project
 - Case files (STEP format)
 ```
+
+VIAL firmware commissioned by [Moinboards.](https://moinboards.de/) Thank you again so much!
 
 
 ### KLC layout
