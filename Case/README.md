@@ -18,7 +18,7 @@ __Print settings:__
 
 __Notes:__
 - The screw holes are a bit small, so getting the screws in may take some force
-- Only tested in PLA with Bambu filament and feault profile, on a P1S with a 0.4 hardend steel nozzle
+- Only tested in PLA with Bambu filament, default profile, on a P1S with a 0.4 hardened steel nozzle
 - I figured this would be a travel board so I went a bit crazy with the screw locations. Don't hate me!
 
 ### Case images
