@@ -22,5 +22,5 @@ __Notes:__
 - I figured this would be a travel board so I went a bit crazy with the screw locations. Don't hate me!
 
 ### Case images
-![Case Front]()
-![Case back]()
+![Case Front](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/Case/Images/CMLV4N%201%20-%20169%20-%201080.png)
+![Case back](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/Case/Images/CMLV4N%208%20-%20169%20-%201080.png)
