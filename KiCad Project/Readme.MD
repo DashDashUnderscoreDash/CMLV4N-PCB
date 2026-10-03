@@ -12,8 +12,8 @@ Due to skill issue, when making production files, some components are not orient
 U4 - Transient voltage suppressor
 U3 - Over current protection
 
-### Orientation error
-![Orientation error 1]()
+### Incorrect orientation
+![Orientation error 1](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/KiCad%20Project/Images/Comps%20to%20fix%20placement.jpg)
 
-### Orientation error resolution
-![Orientation error 2]()
+### Corrected orientation
+![Orientation error 2](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/KiCad%20Project/Images/Comps%20to%20fix%20placement%202.jpg)
