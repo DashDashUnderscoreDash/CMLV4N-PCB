@@ -19,3 +19,7 @@ __ __
 
 ### Corrected orientation
 ![Orientation error 2](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/KiCad%20Project/Images/Comps%20to%20fix%20placement%202.jpg)
+
+
+
+Leafspring tadpole mount by HaiZeus. Thank you so much for sharing these with me, letting me use on my designs, and helping me learning to design in general. [Please check out his store](https://www.haikey.design/), he's a very talented designer!
