@@ -18,6 +18,7 @@ Due to the uneven u sizing on Cherry ML the enter key does not fill that entire 
 - STEP model of PCB
 - Edgecuts of PCB
 - Complete KiCad project
+- Case files (STEP format)
 ```
 
 
