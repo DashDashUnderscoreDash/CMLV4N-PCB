@@ -9,8 +9,10 @@ As of 10/3/26 everything uploads to JLC with no errors less needing to orient so
 I'm not sure if anything else should be put in this readme, so apologies if any information is missing. Feel free to start an issue or DM me on Discord. Username: dashdashunderscoredash
 
 Due to skill issue, when making production files, some components are not oriented correctly. When placing the components in JLC you will need to change:
-U4 - Transient voltage suppressor
-U3 - Over current protection
+__ __
+- U4: Transient voltage suppressor
+__ __
+- U3: Over current protection
 
 ### Incorrect orientation
 ![Orientation error 1](https://github.com/DashDashUnderscoreDash/CMLV4N-PCB/blob/main/KiCad%20Project/Images/Comps%20to%20fix%20placement.jpg)
