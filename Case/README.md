@@ -6,7 +6,7 @@ __Items needed:__
 - 4x [SKUF feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
 - 8x [Geon tadpoles](https://saberkeebs.com/products/geon-tadpoles) - The softer the better in my opinion
 - 8x [M2 heatsets](https://a.co/d/0grCwzam) - *M2/H3/D3 in case link dies in the future*
-- 8x [wheel weights](https://a.co/d/0inzJoTX) - *0.65"/16.4mm X 0.75"/19mm in case link dies in the future*
+- 8x [Wheel weights](https://a.co/d/0inzJoTX) - *0.65"/16.4mm X 0.75"/19mm in case link dies in the future*
 - 8x M2x5 screws
 
 __Print settings:__
