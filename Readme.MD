@@ -14,7 +14,7 @@ Due to the uneven u sizing on Cherry ML the enter key does not fill that entire 
 ```
 - Layout options
 - Images of PCB
-- VIAL firmware
+- VIAL firmware - Made by [Moinboards](https://moinboards.de/)
 - STEP model of PCB
 - Edgecuts of PCB
 - Complete KiCad project
