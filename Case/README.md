@@ -5,7 +5,7 @@ __Items needed:__
 - 1x [JST cable](https://www.aliexpress.us/item/3256809955750969.html) - Ideally very short. I used 6cm, 4 pin, "double reverse" cables. Longer cables can be used, but they may negativley impact the flex
 - 4x [SKUF feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
 - 8x [Geon tadpoles](https://saberkeebs.com/products/geon-tadpoles) - The softer the better in my opinion
-- 8x [M2 heatsets](https://a.co/d/0gVnzOae) - *M2/H3/D3 in case link dies in the future*
+- 8x [M2 heatsets](https://a.co/d/0grCwzam) - *M2/H3/D3 in case link dies in the future*
 - 8x [wheel weights](https://a.co/d/0inzJoTX) - *0.65"/16.4mm X 0.75"/19mm in case link dies in the future*
 - 8x M2x5 screws
 
