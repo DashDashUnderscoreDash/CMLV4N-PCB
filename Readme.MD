@@ -1,5 +1,7 @@
 # **CMLV4N**
 
+These PCBs are fully tested - Confirmed working!
+
 CMLV4N is an STM32 12u V4N style PCB with leafspring tadpole mounting featuring forced Cherry ML support
 
 The goal of this PCB is to have a 40% keyboard that uses Cherry ML switches harvested from a Cherry G84-4100.
